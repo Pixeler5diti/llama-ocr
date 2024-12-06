@@ -1,4 +1,4 @@
-#Llama 3.2 -ocr
+# Llama 3.2 -ocr
 This project leverages Llama 3.2 vision and Streamlit to create a 100% locally running OCR app.
 
 ## Installation and setup
