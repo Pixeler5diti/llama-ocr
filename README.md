@@ -11,3 +11,5 @@ ollama run llama3.2-vision
 ### Install Dependencies: Ensure you have Python 3.11 or later installed.
 ```bash
 pip install streamlit ollama
+```
+
